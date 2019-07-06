@@ -1,0 +1,14 @@
+Install Gitbash : http://gitforwindows.org/
+make githut repository : github.com
+
+<To make the foler for sync>
+0.foler right click-Git bash here
+1.git init : check the generating .int file (hided)
+2.git remote add origin (address-https : ~ git)
+
+<To update files in the folder>
+0.folder right click-Git bash here
+1.git status : check the status
+2.git add . : file tracking
+3.git commit -m "test" : add comment
+4.git push origin master : update
